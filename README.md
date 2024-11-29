@@ -1,4 +1,4 @@
- wrap the element in an HTML tag with the align attribute set to "center"
+
 # 💫 About Me:
 I’m a WordPress developer committed to bringing my clients’ visions to life by designing custom websites that reflect their brand identity. My mission is to build beautiful, functional, and SEO-friendly websites that help businesses connect with their target audience more effectively.
 
@@ -21,6 +21,8 @@ I’m a WordPress developer committed to bringing my clients’ visions to life 
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/uymeacoffee.com/shakil50) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/https://www.patreon.com/c/shakil50) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/shakil50) 
-
+<p align="center">
+// Your content
+</p>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
