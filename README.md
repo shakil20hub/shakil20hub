@@ -1,3 +1,4 @@
+ wrap the element in an HTML tag with the align attribute set to "center"
 # 💫 About Me:
 I’m a WordPress developer committed to bringing my clients’ visions to life by designing custom websites that reflect their brand identity. My mission is to build beautiful, functional, and SEO-friendly websites that help businesses connect with their target audience more effectively.
 
